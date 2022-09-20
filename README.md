@@ -2,7 +2,8 @@
 **Code and data sets for EVO analysis (chapters 2&3) and CPT analysis (Chapters 4&5)**
 
 Relevant data files include:
-/n**Phyloseq Objects for Chapter 2&3**
+
+**Phyloseq Objects for Chapter 2&3**
 * p2017_1_filtered.Rdata (Overlapping taxa identified on 0.1 µm filters)
 * p2017_2_filtered.Rdata (Overlapping taxa identified on 0.2 µm filters)
 * p2017_1.Rdata (0.1 µm exclusive)
